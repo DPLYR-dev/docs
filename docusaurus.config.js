@@ -1,18 +1,23 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'DPLYR',
+  tagline: 'Learn how to use DPLYR',
+  url: 'https://docs.dplyr.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'dplyr-dev', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
   themeConfig: {
+    // algolia: {
+    //   apiKey: '139f34a107d86c8fdc517bdc4ad2dc7a',
+    //   indexName: 'dplyrdocs',
+    //   searchParameters: {}, // Optional (if provided by Algolia)
+    // },
     navbar: {
-      title: 'My Site',
+      title: 'DPLYR',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'DPLYR Logo',
+        src: 'https://avatars2.githubusercontent.com/u/66003536?s=200&v=4',
       },
       items: [
         {
@@ -21,9 +26,10 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'solutions', label: 'Solutions', position: 'left'},
+        {to: 'https://www.dplyr.dev', label: 'Back to DPLYR', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/dplyr-dev',
           label: 'GitHub',
           position: 'right',
         },
@@ -32,51 +38,51 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
+        // {
+        //   title: 'Docs',
+        //   items: [
+        //     {
+        //       label: 'Style Guide',
+        //       to: 'docs/',
+        //     },
+        //     {
+        //       label: 'Second Doc',
+        //       to: 'docs/doc2/',
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: 'Community',
+        //   items: [
+        //     {
+        //       label: 'Stack Overflow',
+        //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        //     },
+        //     {
+        //       label: 'Discord',
+        //       href: 'https://discordapp.com/invite/docusaurus',
+        //     },
+        //     {
+        //       label: 'Twitter',
+        //       href: 'https://twitter.com/docusaurus',
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: 'More',
+        //   items: [
+        //     {
+        //       label: 'Blog',
+        //       to: 'blog',
+        //     },
+        //     {
+        //       label: 'GitHub',
+        //       href: 'https://github.com/facebook/docusaurus',
+        //     },
+        //   ],
+        // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DPLYR LLC.`,
     },
   },
   presets: [
