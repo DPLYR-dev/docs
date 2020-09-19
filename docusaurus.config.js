@@ -26,7 +26,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'solutions', label: 'Solutions', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'left'},
         {to: 'https://www.dplyr.dev', label: 'Back to DPLYR', position: 'left'},
         {
           href: 'https://github.com/dplyr-dev',
