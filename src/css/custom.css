@@ -23,3 +23,9 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+.right-image {
+  position: absolute;
+  right: 0px;
+  padding-right: 1%;
+}
