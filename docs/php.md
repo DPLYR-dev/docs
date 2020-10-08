@@ -19,7 +19,7 @@ You need to set your project files at the main directory like this example
      - index.html
 ```
 
-## Setting database url
+### Setting database url
 You need to set your database connection string as "127.0.0.1" instead of "localhost" to connect to your local database
 ```php
 <?php
