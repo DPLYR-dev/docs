@@ -39,7 +39,7 @@ You need to add start command to your scripts in package.json
 ```
 :::caution
 
-If you are using nodemon in development so please be sure that you didn't forgot to add nodemon into dependencies or devDependencies
+If you are using ** nodemon ** in development please be sure that you didn't forgot to add ** nodemon ** into * dependencies * or * devDependencies *
 
 :::
 ## Configuring Port
