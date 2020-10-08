@@ -78,9 +78,9 @@ from flask_mysqldb import MySQL
 app = Flask(__name__)
 app.secret_key = 'many random bytes'
 app.config['MYSQL_HOST'] = '127.0.0.1'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = ''
-app.config['MYSQL_DB'] = 'crud'
+app.config['MYSQL_USER'] = 'dplyr'
+app.config['MYSQL_PASSWORD'] = 'dplyr'
+app.config['MYSQL_DB'] = 'dplyr'
 mysql = MySQL(app)
 ```
 
