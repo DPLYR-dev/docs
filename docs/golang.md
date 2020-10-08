@@ -17,8 +17,7 @@ You need to rename your main file to main.go and put your main.go file at the ma
 - go-app
      - main.go
      - src
-          - test.go
-          - test2.go
+        - test.go
 ```
 
 ### Setting database url
