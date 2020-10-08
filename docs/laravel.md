@@ -21,8 +21,10 @@ You need to set your project files at the main directory like this example
         - index.php
 ```
 
-### .env.example
-** 1. ** set your .env data in .env.example
+### Configure .env.example
+** 1. ** set your .env variables in .env.example
+<p></p>
+
 ** 2. ** set your .env.example at the main directory like this example
 ```
 - laravel-app
