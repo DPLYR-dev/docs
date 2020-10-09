@@ -12,12 +12,12 @@ You need to configure your app to be ready for the deployment process.
 
 ## Configuring App
 ### Renaming main file
-You need to rename your main file to main.go and put your main.go file at the main directory like this example
+You need to rename your main file to main.go and put your main.go file in a folder called src like this example
 ```
 - go-app
-     - main.go
+    - test.go
      - src
-        - test.go
+        - main.go
 ```
 
 ### Setting database url
