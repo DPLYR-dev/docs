@@ -15,9 +15,9 @@ You need to configure your app to be ready for the deployment process.
 You need to rename your main file to main.go and put your main.go file in a folder called src like this example
 ```
 - go-app
-    - test.go
+     - main.go
      - src
-        - main.go
+        - test.go
 ```
 
 ### Setting database url
