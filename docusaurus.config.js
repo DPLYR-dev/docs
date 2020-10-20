@@ -1,6 +1,6 @@
 module.exports = {
   title: 'DPLYR',
-  tagline: 'Learn how to use DPLYR',
+  tagline: 'Docs about using DPLYR - The next generation of cloud platforms',
   url: 'https://docs.dplyr.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
