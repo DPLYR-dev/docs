@@ -5,8 +5,9 @@ module.exports = {
   ],
     Technologies: ['nodejs', 'php', 'laravel', 'golang', 'docker-compose', "asp.net", "python", 'static', 'rails'],
     Databases: ['mongodb', 'mysql', 'postgresql'],
-    "Databases":["databases"]
+    "Databases":["databases"],
     // Machines: ['creating-machines', "pro-machine", "ultimate-machine", 'machine-dashboard', 'file-manager'],
+    Machines: ['machines/specs'],
     // "CLI Tool": ['cliinstalling', 'cliusage'],
   },
 };
