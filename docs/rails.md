@@ -1,7 +1,7 @@
 ---
 id: rails
 title: Ruby on Rails
-sidebar_label: Ruby on Rails
+sidebar_label: Ruby on Rails (Coming Soon)
 slug: /ruby-on-rails
 ---
 ## Deploy Ruby On Rails backends and apps using DPLYR 
