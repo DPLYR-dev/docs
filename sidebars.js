@@ -1,6 +1,8 @@
 module.exports = {
   someSidebar: {
-    "Getting Started": ['getting-started', 'doc1', 'doc2', 'doc3'],
+    "Getting Started": ['getting-started', 
+    // 'doc1', 'doc2', 'doc3'
+  ],
     Technologies: ['nodejs', 'php', 'laravel', 'golang', 'docker-compose', "asp.net", "python", 'static', 'rails'],
     Databases: ['mongodb', 'mysql', 'postgresql'],
     "Databases":["databases"]
