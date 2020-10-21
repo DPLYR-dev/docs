@@ -9,7 +9,7 @@ slug: /nodejs
 <p>Are you ready to deploy your app on DPLYR Machines ?</p>
 You need to configure your app to be ready for the deployment process. 
 
-## Configuring App
+## Configuring **App**
 
 ### package.json location
 You need to set your package.json at the main directory like this example
