@@ -1,7 +1,7 @@
 ---
 id: static
-title: HTML Website
-sidebar_label: HTML Website
+title: HTML Websites
+sidebar_label: HTML Websites
 slug: /html-websites
 ---
 ## Deploy beautiful HTML Websites using DPLYR 
