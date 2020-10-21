@@ -5,7 +5,7 @@ sidebar_label: Node.js
 slug: /nodejs
 ---
 ## Deploy amazing Node.JS apps using DPLYR 
-<img class="right-image" src="http://www.tipstoremember.com/wp-content/uploads/2017/09/nodejs_logo.png" width="70px" height="70px" />
+<img class="right-image" src="https://www.tipstoremember.com/wp-content/uploads/2017/09/nodejs_logo.png" width="70px" height="70px" />
 <p>Are you ready to deploy your app on DPLYR Machines ?</p>
 You need to configure your app to be ready for the deployment process. 
 
