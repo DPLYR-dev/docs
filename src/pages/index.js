@@ -12,28 +12,25 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A 5 step wizard is between you and your app deployed on your server.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Affordable',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        It's far more affordable than PaaS but with the same ease of use and magic.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Flexible',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        It's PaaS acting as IaaS, you still have access to the terminal if you want, you can do whatever you want, it's all yours.
       </>
     ),
   },
